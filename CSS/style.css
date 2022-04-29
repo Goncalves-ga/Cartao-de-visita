@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+}
+
+#cartao {
+  font-family: "Architects Daughter", cursive;
+  width: 400px;
+  height: 200px;
+  box-sizing: border-box;
+  background-image: url(../assets/backgorund.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 1px 20px;
+  margin: auto;
+  margin-top: 10%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: red;
+}
+
+#insta {
+  list-style-image: url(../assets/Insta.png);
+}
+
+#twitter {
+  list-style-image: url(../assets/Twitter.png);
+}
+
+#youtube {
+  list-style-image: url(../assets/Youtube.png);
+}
